@@ -16,9 +16,6 @@
         Sérgio Lopes
     </author>
 	
-	<icon src="imagen/icon.png" />
-	<plugin name="cordova-plugin-splashscreen" />
-    <splash src="imagens/splash.png" />	
 	
 	<preference name="orientation" value="portrait" />	
 	
